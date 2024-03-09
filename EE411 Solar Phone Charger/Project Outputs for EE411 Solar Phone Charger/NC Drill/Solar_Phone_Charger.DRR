@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Solar_Phone_Charger.PcbDoc   2/3/2024  8:31:01 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Solar_Phone_Charger.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             3         PTH        32.78mm (1.29inch)
+T2      0.92mm (36mil)                                            Round             4         PTH        7.00mm (0.28inch)
+T3      1.6mm (63mil)                                             Round             7         PTH        141.35mm (5.57inch)
+T4      2.3mm (91mil)                                             Round             2         PTH        13.14mm (0.52inch)
+T5      4.2mm (165mil)                                            Round             2         PTH        20.40mm (0.80inch)
+T6      5mm (197mil)                                              Round             4         NPTH       262.21mm (10.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              22
+
+Total Processing Time (hh:mm:ss) : 00:00:00

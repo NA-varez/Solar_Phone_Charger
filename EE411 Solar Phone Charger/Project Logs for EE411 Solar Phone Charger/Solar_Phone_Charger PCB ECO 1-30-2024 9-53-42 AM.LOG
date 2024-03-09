@@ -1,0 +1,37 @@
+Change Component Comment : Designator=C6 Old Comment=C0805C101K5GAC7210 New Comment=100pF
+Change Component Comment : Designator=C5 Old Comment=C0805C471J5GAC7210 New Comment=470pF
+Change Component Comment : Designator=C4 Old Comment=C1206C102F1GACTU New Comment=1000pF
+Change Component Comment : Designator=C3 Old Comment=C1206C104J5RACTU New Comment=0.1uF
+Change Component Comment : Designator=C7 Old Comment=C1206C104J5RACTU New Comment=0.1uF
+Change Component Comment : Designator=R2 Old Comment=ERA8AEB682V New Comment=6.8KR
+Change Component Comment : Designator=C1 Old Comment=T495X336M035ATE100 New Comment=33uF, 20%
+Change Component Comment : Designator=C2 Old Comment=T495X336M035ATE100 New Comment=33uF, 20%
+Added Component: Designator=J1(4MM Banana Female Socket)
+Added Component: Designator=J2(4MM Banana Female Socket)
+Added Component: Designator=J3(614004190021)
+Add component (AddParameter): Name = "Connector Type"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Horizontal, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "71472441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "30V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "USB Standard"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=VOUT Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-Shell
+Added Pin To Net: NetName=GND Pin=J3-Shell
