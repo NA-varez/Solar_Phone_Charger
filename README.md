@@ -51,14 +51,14 @@ is because the footprint pin assignment was not made correctly. The below list i
 mistake to prevent future similar mistakes (hopefully!).
 
 ### Circuit debugging Steps
-* Observe any damages to components or extreme heat emanating from the board
-* Check that your input supply is turned ON. Start with NO-LOAD at the output.
-* Check Input and Output connections. Make sure they are electrically sound
-* Perform point-point continuity testing with a multimeter using probes
-* Probe GND and move through every connection making sure there are no unwanted shorts to GND
-* Check the footprints. It's possible the pins assigned to the footprints do not correctly reflect the pins of the device (In our case the MOSFET's pin connections were mismatched on the footprint
-* Verify that the simulation where you derived the component values from is reflected in your design
-* Verify any significant nodes (Such as the switching node) look as expected
+1. Observe any damages to components or extreme heat emanating from the board
+2. Check that your input supply is turned ON. Start with NO-LOAD at the output.
+3. Check Input and Output connections. Make sure they are electrically sound
+4. Perform point-point continuity testing with a multimeter using probes
+5. Probe GND and move through every connection making sure there are no unwanted shorts to GND
+6. Check the footprints. It's possible the pins assigned to the footprints do not correctly reflect the pins of the device (In our case the MOSFET's pin connections were mismatched on the footprint
+7. Verify that the simulation where you derived the component values from is reflected in your design
+8. Verify any significant nodes (Such as the switching node) look as expected
 
 
 <!-- ROADMAP -->
@@ -80,9 +80,9 @@ mistake to prevent future similar mistakes (hopefully!).
 <!-- CONTACT -->
 ## Contributors
 
-Nicolas Alvarez (README.md Author) - nalvar95@outlook.com - www.linkedin.com/in/nicolas-alvarez-69061b1b6
-Luke Adame - lukeadame@yahoo.com
-Corey Zaas - coreyzaas@gmail.com
+* Nicolas Alvarez (README.md Author) - nalvar95@outlook.com - www.linkedin.com/in/nicolas-alvarez-69061b1b6
+* Luke Adame - lukeadame@yahoo.com
+* Corey Zaas - coreyzaas@gmail.com
 
 
 
