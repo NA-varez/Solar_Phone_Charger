@@ -25,13 +25,13 @@ and connected via banana plugs. Filtered with input capacitors, power flows thro
 
 <div align="center">
   <a href="https://github.com/NA-varez/Solar_Phone_Charger">
-    <img src="images/2.png" alt="2" width="800" height="400">
+    <img src="images/2.png" alt="2" width="500" height="500">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/NA-varez/Solar_Phone_Charger">
-    <img src="images/3.png" alt="3" width="800" height="800">
+    <img src="images/3.png" alt="3" width="800" height="400">
   </a>
 </div>
 
