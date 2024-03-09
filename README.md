@@ -18,7 +18,7 @@
 <!-- USAGE EXAMPLES -->
 ## How it Works
 The DC-DC Buck Converter uses an LTC1624 200kHz fixed-frequency switching controller. Input is taken from a provided small solar panel 
-and connected via banana plugs. Filtered with input capacitors, power flows through an RSENSE resistor that sets the max output current adn then to the Drain of a MOSFET. Power flows through the switch and Schottky Diode through the inductor and output to a USB-A connection after some filtering capacitors.
+and connected via banana plugs. Filtered with input capacitors, power flows through an RSENSE resistor that sets the max output current and then to the Drain of a MOSFET. Power flows through the switch and Schottky Diode through the inductor and output to a USB-A connection after some filtering capacitors.
 
 <!-- ABOUT THE PROJECT -->
 ## Project Pictures!
@@ -45,10 +45,10 @@ and connected via banana plugs. Filtered with input capacitors, power flows thro
 ## Notes to Self and Helpful for Others
 
 When you've got the board assembled and there's something wrong, it's important to follow the following steps in order. 
-I have found this to be the most effective use of time to determine what is wrong with a PCB board. Over time I will develop
-more steps as I gain more experience with other boards. You may have noticed that the switch S1 is lifted off the board. That
-is because the footprint pin assignment was not made correctly. The below list is a way for me to learn and reflect upon this 
-mistake to prevent future similar mistakes (hopefully!).
+I have found this to be the most effective use of time to determine what is wrong with a PCB board. 
+
+These steps have been made after solving issues with this board. The below list is a way for me to learn and reflect past
+strategies prevent future similar mistakes (hopefully!) and save time.
 
 ### Circuit debugging Steps
 1. Observe any damages to components or extreme heat emanating from the board
