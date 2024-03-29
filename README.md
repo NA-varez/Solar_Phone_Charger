@@ -71,9 +71,9 @@ strategies prevent future similar mistakes (hopefully!) and save time.
 - [X] Order board (Used JLC PCB)
 - [X] Assemble and test board
 - [X] Make changes to ECAD files after any errors are found
-- [ ] Get oscilloscope captures
-- [ ] Add documentation of equations used
-- [ ] Add BOM
+- [X] Get oscilloscope captures
+- [X] Add documentation of equations used
+- [X] Add BOM
 - [ ] Add simulation files to repo
 
 
