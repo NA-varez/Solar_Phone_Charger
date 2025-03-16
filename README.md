@@ -17,8 +17,10 @@
 
 <!-- USAGE EXAMPLES -->
 ## How it Works
-The DC-DC Buck Converter uses an LTC1624 200kHz fixed-frequency switching controller. Input is taken from a provided small solar panel 
-and connected via banana plugs. Filtered with input capacitors, power flows through an RSENSE resistor that sets the max output current and then to the Drain of a MOSFET. Power flows through the switch and Schottky Diode through the inductor and output to a USB-A connection after some filtering capacitors.
+1. The DC-DC Buck Converter uses an LTC1624 200kHz fixed-frequency switching controller. 
+2. Input is taken from a provided small solar panel and connected via banana plugs. 
+3. Filtered with input capacitors, power flows through an RSENSE resistor that sets the max output current and then to the Drain of a MOSFET. 
+4. Power flows through the switch and Schottky Diode through the inductor and output to a USB-A connection after some filtering capacitors.
 
 <!-- ABOUT THE PROJECT -->
 ## Project Pictures!
@@ -74,7 +76,6 @@ strategies prevent future similar mistakes (hopefully!) and save time.
 - [X] Get oscilloscope captures
 - [X] Add documentation of equations used
 - [X] Add BOM
-- [ ] Add simulation files to repo
 
 
 <!-- CONTACT -->
